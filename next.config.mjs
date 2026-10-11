@@ -6,6 +6,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: "/itzfizz-scroll-animation",
 };
 
 export default nextConfig;
